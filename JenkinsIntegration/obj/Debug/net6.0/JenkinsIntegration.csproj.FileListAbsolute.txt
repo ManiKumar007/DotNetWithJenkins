@@ -1,0 +1,15 @@
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.csproj.AssemblyReference.cache
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.AssemblyInfoInputs.cache
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.AssemblyInfo.cs
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.csproj.CoreCompileInputs.cache
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\bin\Debug\net6.0\JenkinsIntegration.exe
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\bin\Debug\net6.0\JenkinsIntegration.deps.json
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\bin\Debug\net6.0\JenkinsIntegration.runtimeconfig.json
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\bin\Debug\net6.0\JenkinsIntegration.dll
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\bin\Debug\net6.0\JenkinsIntegration.pdb
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.dll
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\refint\JenkinsIntegration.dll
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.pdb
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\JenkinsIntegration.genruntimeconfig.cache
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\JenkinsIntegration\obj\Debug\net6.0\ref\JenkinsIntegration.dll
