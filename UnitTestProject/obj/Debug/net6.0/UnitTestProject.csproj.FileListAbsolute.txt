@@ -1,9 +1,4 @@
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.AssemblyReference.cache
-C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.AssemblyInfoInputs.cache
-C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.AssemblyInfo.cs
-C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.CoreCompileInputs.cache
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\testhost.dll
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\JenkinsIntegration.deps.json
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\JenkinsIntegration.runtimeconfig.json
@@ -97,6 +92,11 @@ C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debu
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\JenkinsIntegration.pdb
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.AssemblyInfo.cs
+C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.CoreCompileInputs.cache
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.CopyComplete
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\UnitTestProject.dll
 C:\Users\1000299723\Desktop\Training\JenkinsIntegration\UnitTestProject\obj\Debug\net6.0\refint\UnitTestProject.dll
